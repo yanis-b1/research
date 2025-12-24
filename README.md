@@ -12,7 +12,7 @@ context, and stochastic realizations.
 - `A Kelly-Based Framework for Risk-Controlled V-Cycle Iterations in Megaprojects.pdf` — compiled manuscript
 
 ## Status
-Working paper / independent research (not peer-reviewed).
+Independent research (not peer-reviewed).
 
 ## Author
 Yanis
